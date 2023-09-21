@@ -1,0 +1,26 @@
+table, th, td,tr {
+    border: 1px solid black;
+    text-align: center;
+    padding: 2px;
+   
+  }
+
+  .bgblack{
+    color: white;
+    background-color: black;
+  }
+
+  #main{
+    width: auto;
+    height: 400px;
+  }
+
+  #table2,#table3{
+    width: 300px;
+  }
+
+  #table1,#table4{
+    width: 300px;
+  }
+
+ 
